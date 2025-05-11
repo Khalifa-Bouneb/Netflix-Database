@@ -3,7 +3,7 @@
 
 ## 📋 Description du Projet
 
-Ce projet implémente une base de données Oracle complète pour la gestion d'un service de streaming similaire à Netflix. Le système gère tous les aspects essentiels de la plateforme : utilisateurs, abonnements, contenu et interactions.
+Ce projet implémente une base de données Oracle complète pour la gestion d'un service de streaming Netflix. Le système gère tous les aspects essentiels de la plateforme : utilisateurs, abonnements, contenu et interactions.
 
 ## 💽 Architecture de la Base de Données Oracle
 
